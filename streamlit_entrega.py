@@ -6,7 +6,7 @@ Created on Sun Dec 15 19:05:01 2024
 """
 import streamlit as st
 import pandas as pd
-from plotnine import *
+#from plotnine import *
 
 st.title('Planea tu viaje')
 
